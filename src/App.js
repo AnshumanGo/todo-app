@@ -8,7 +8,7 @@ import './App.css';
 class App extends Component{
   render(){
     return <div className="App">
-        My Todo Application
+        My Counter Application
         <Counter/>
       </div>
     ;
